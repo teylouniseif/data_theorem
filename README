@@ -1,0 +1,3 @@
+Use pip-tools to compile dependencies from requirements.in file
+Install requirements.txt file with pip
+Run app.py to start server accessible at http://localhost:8000
